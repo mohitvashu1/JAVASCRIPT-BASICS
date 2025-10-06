@@ -9,4 +9,4 @@ function isPrime(x){
     return true;
     
 }
-console.log(isPrime(47))
+console.log(isPrime(2))
