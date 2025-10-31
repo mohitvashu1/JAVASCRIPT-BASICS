@@ -35,3 +35,6 @@ for ( let row = 1; row <= number; row++ ) {
     console.log( pattern );
 
 }
+
+console.log("         ")
+// Pattern 4
